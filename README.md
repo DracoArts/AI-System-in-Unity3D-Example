@@ -5,7 +5,7 @@
 
 
 
-# AI System in Unity 
+# AI System in Unity3D Example  
 This AI system provides a robust framework for creating intelligent NPCs (Non-Player Characters) in Unity, featuring pathfinding, decision-making, sensory detection, and state-based behaviors. The system is built using Unity's NavMesh for navigation and a Finite State Machine (FSM) approach for managing different AI behaviors.
 
 
